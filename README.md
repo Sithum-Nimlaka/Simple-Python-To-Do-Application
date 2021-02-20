@@ -4,7 +4,7 @@ This is simple To-Do Application Coded with Python. This is GUI Program. I used 
 Default Username: admin<br>
 Default Password: password<br><br>
 
-<video controls="" height="360" width="480">
-<source src="ToDo-App-Review.m4v" type="video/ogg">
-</source>
+![](/ToDo-App-Review.m4v)
+<video width="320" height="240" controls>
+  <source src="/ToDo-App-Review.m4v" type="video/mp4">
 </video>
